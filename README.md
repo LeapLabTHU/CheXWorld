@@ -1,2 +1,2 @@
 # CheXWorld
-[CVPR 2024] CheXWorld: Exploring Image World Modeling for Radiograph Representation Learning
+[CVPR 2025] CheXWorld: Exploring Image World Modeling for Radiograph Representation Learning
