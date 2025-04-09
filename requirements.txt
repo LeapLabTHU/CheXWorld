@@ -1,0 +1,12 @@
+torch
+torchvision
+numpy
+Pillow
+torch
+pandas
+timm
+scikit-learn
+opencv-python
+pydicom
+albumentations
+monai
