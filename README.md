@@ -1,4 +1,7 @@
 # CheXWorld: Exploring Image World Modeling for Radiograph Representation Learning (CVPR 2025)
+
+<a href='https://arxiv.org/abs/2504.13820'><img src='https://img.shields.io/badge/Arxiv-2504.13820-red'>
+
 Authors: Yang Yue\*, Yulin Wang\*, Chenxin Tao, Pan Liu, Shiji Song, Gao Huang\#.
 
 \*: Equal contribution, \#: Corresponding author.
